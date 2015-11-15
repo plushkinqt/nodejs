@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node is super easy",
+  "main": "server.js",
+  "author": {
+    "name": "Yevgen",
+    "email": "plushkinqt@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
