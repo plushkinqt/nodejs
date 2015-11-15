@@ -1,3 +1,6 @@
-it ('doesn\'t do anything', function(){
-  throw new Error('this fails!');
+var assert = require('assert');
+
+it ('find jonson', function(){
+  var data = .get('GET', 'localhost:3000//');
+
 });
